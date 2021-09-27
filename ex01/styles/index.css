@@ -1,0 +1,60 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+body {
+  background-color: lightblue;
+  text-align:;
+}
+
+.perent{
+  width: 25%;
+  display:inline-block;
+  position: relative;
+  float: left;
+
+}
+
+
+
+.prva {
+  width: 100%;
+}
+
+.druga {
+  width: 100%
+
+}
+.treca{
+  width: 100%
+}
+
+.cetvrta {
+  width: 100%
+}
+
+.peta {
+  width: 100%
+}
+
+.sesta {
+  width: 100%
+
+}
+.sedma {
+  width: 100%
+
+}
+.osma {
+  width: 100%
+}
+
+.deveta {
+  width: 100%
+}
+
+.deseta {
+  width: 100%
+}
